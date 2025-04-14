@@ -25,6 +25,11 @@ export default function Home() {
               Dynamic Status Indicator (Not Satisfied)
             </Link>
           </li>
+          <li>
+            <Link href="/animated-checkboxes" className="hover:underline">
+              Animated Checkboxes
+            </Link>
+          </li>
         </ol>
       </div>
       <p>By <Link href="https://satyajit.xyz" target="_blank" className="hover:underline">Satyajit Chaudhary</Link></p>
