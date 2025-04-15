@@ -30,6 +30,11 @@ export default function Home() {
               Animated Checkboxes
             </Link>
           </li>
+          <li>
+            <Link href="/animated-toggles" className="hover:underline">
+              Animated Toggles
+            </Link>
+          </li>
         </ol>
       </div>
       <p>By <Link href="https://satyajit.xyz" target="_blank" className="hover:underline">Satyajit Chaudhary</Link></p>
