@@ -35,6 +35,11 @@ export default function Home() {
               Animated Toggles
             </Link>
           </li>
+          <li>
+            <Link href="/shared-layout-tabs" className="hover:underline">
+              Shared Layout Tabs
+            </Link>
+          </li>
         </ol>
       </div>
       <p>By <Link href="https://satyajit.xyz" target="_blank" className="hover:underline">Satyajit Chaudhary</Link></p>
